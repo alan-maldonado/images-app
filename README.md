@@ -8,4 +8,5 @@ Retrieve images from imgur. this project is using react, meteor and axios.
 Then, browse over the address
 `http://localhost:3000/`
 
-
+# Screenshoot
+![Image App](./imageApp.png "Image App")
